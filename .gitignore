@@ -1,0 +1,4 @@
+tables/
+*.sqlite*
+.env
+.cache
