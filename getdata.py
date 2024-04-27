@@ -3,10 +3,10 @@ import sqlite3
 from pathlib import Path
 
 USEFUL_TABLES = [
-"ZSHARTISTMO",
-"ZSHTAGRESULTCOLLECTIONMO",
-"ZSHSYNCMETADATAMO",
-"ZSHTAGRESULTMO",
+"ZARTISTMO",
+"ZTAGCOLLECTIONMO",
+"ZSYNCMETADATAMO",
+"ZTAGMO",
 ]
 
 output_folder = Path("tables")

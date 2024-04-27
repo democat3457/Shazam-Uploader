@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 load_dotenv()
 
-with open('tables/ZSHTAGRESULTMO.csv') as f:
+with open('tables/ZTAGMO.csv') as f:
     reader = csv.DictReader(f)
     shazam_data = list(reader)
 

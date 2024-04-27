@@ -2,3 +2,4 @@ tables/
 *.sqlite*
 .env
 .cache
+.DS_Store
